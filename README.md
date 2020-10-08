@@ -14,3 +14,6 @@ Bind a single `config` object with the supported following properties:
 | **height** | number | Determines the height of the SVG |
 | **pathFill** | string | will set the color of the SVG with the `fill` property |
 | **d** | string | Fill in the path that actually draws the svg |
+
+---
+👨‍💻 Follow me on [Twitter](https://twitter.com/jodoron).
